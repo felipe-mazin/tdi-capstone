@@ -55,7 +55,7 @@ def app():
     # Define HTML template for the header
     header_template = """
         <div style="background-color: #5C2D91; padding: 2rem;">
-            <h1 style="color: white; text-align: center;">Fragrance Recommendations</h1>
+            <h1 style="color: white; text-align: center;">FragRec:\n find a fragrance that speaks to you</h1>
         </div>
     """
 
