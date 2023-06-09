@@ -27,7 +27,7 @@ thinc==8.1.10
 cfscrape==2.1.1
 requests==2.30.0
 defusedxml==0.7.1
-numpy==1.24.3
+numpy==1.21.6
 matplotlib==3.7.1
 jupyter-server==2.5.0
 oauthlib==3.1.0
