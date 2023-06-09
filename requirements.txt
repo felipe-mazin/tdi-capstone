@@ -34,10 +34,6 @@ Unidecode==1.3.6
 exceptiongroup==1.1.1
 requests-html==0.10.0
 python-debian===0.1.36
-systemd-python==234
-types-pytz==2023.3.0.0
-Brlapi==0.7.0
-fonttools==4.39.4
 pandas==2.0.1
 virtualenv==20.23.0
 pyasn1-modules==0.3.0
